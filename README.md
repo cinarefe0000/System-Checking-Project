@@ -1,2 +1,4 @@
 # System-Checking-Project
-Python Kullanarak Bilgisayar Bileşenlerinin (Ram Cpu vb.) Durumunu Görmeniz İçin Yazılmış Bir Koddur.
+Sistem İzleme Botu
+Discord üzerinden bilgisayarınızın anlık CPU, RAM, Disk kullanımını ve açılış zamanını izlemek için pyhton ile yazılmış bir araçtır.
+botu kurduktan sonra !sistem yazarsanız bütün verileri verir token yazan kısma discord developer portaldan aldığınız token ı yapıştırın
